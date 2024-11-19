@@ -3,8 +3,6 @@ Opa, sou Mario Cabral 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariocabralj/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariocabralj@gmail.com)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581999834646&text=Vi%20seu%20github%20e%20queria%20falar%20contigo!)
 
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariocabralj&theme=dark&show_icons=true)
-
 Tecnologias que uso no meu dia a dia:
 <div style= "display: inline_block"> 
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,3 +21,6 @@ Tecnologias que uso no meu dia a dia:
 Sou um desenvolvedor full-stack em formação e designer com experiência, atualmente estudando Gestão em Tecnologia da Informação na CESAR School. Minhas principais habilidades estão no desenvolvimento com Python, Java, JavaScript (Vue), C# (.NET) e MySQL, além da criação de interfaces atrativas e funcionais na área de design.
 
 Tenho grande interesse em desenvolvimento de software, tanto no front-end quanto no back-end, além de explorar áreas como Inteligência Artificial e banco de dados. 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariocabralj&show_icons=true&theme=transparent)

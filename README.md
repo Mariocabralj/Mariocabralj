@@ -1,4 +1,5 @@
-Opa, sou Mario Cabral [🖐️](https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif)
+Opa, sou Mario Cabral ![110234147-e3259600-7f4e-11eb-95be-0c4047144dea](https://github.com/user-attachments/assets/224dcf48-eb7a-46e5-8bfb-bbfbf0f0b449)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariocabralj/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariocabralj@gmail.com)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581999834646&text=Vi%20seu%20github%20e%20queria%20falar%20contigo!)
 

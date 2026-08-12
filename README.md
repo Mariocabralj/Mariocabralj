@@ -18,9 +18,6 @@ Tecnologias que uso no meu dia a dia:
 
 <br>
 
-Sou um desenvolvedor full-stack em formação e designer com experiência, atualmente estudando Gestão em Tecnologia da Informação na CESAR School. Minhas principais habilidades estão no desenvolvimento com Python, Java, JavaScript (Vue), C# (.NET) e MySQL, além da criação de interfaces atrativas e funcionais na área de design.
+Sou um desenvolvedor full-stack em formação e designer com experiência, formado em Gestão em Tecnologia da Informação na CESAR School e realizando MBA em Inteligência Artificial e Automação de Processos pela INFNET. Minhas principais habilidades estão no desenvolvimento com Python, JavaScript (Vue), C# (.NET) e MySQL, além da criação de interfaces atrativas e funcionais na área de design e IA.
 
 Tenho grande interesse em desenvolvimento de software, tanto no front-end quanto no back-end, além de explorar áreas como Inteligência Artificial e banco de dados. 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariocabralj&show_icons=true&theme=transparent)
